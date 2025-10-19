@@ -1,0 +1,4922 @@
+[
+  {
+    "cantidadArticulo": 65,
+    "idArticulo": 3780,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 345.75
+  },
+  {
+    "cantidadArticulo": 828,
+    "idArticulo": 681,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 454.13
+  },
+  {
+    "cantidadArticulo": 6,
+    "idArticulo": 736,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 65.62
+  },
+  {
+    "cantidadArticulo": 184,
+    "idArticulo": 778,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 175.15
+  },
+  {
+    "cantidadArticulo": 82,
+    "idArticulo": 549,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 159.32
+  },
+  {
+    "cantidadArticulo": 209,
+    "idArticulo": 556,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 178.39
+  },
+  {
+    "cantidadArticulo": 22,
+    "idArticulo": 64,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 374.93
+  },
+  {
+    "cantidadArticulo": 5720,
+    "idArticulo": 545,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 190.8
+  },
+  {
+    "cantidadArticulo": 93,
+    "idArticulo": 225,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 277.54
+  },
+  {
+    "cantidadArticulo": 55,
+    "idArticulo": 9490,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 382.02
+  },
+  {
+    "cantidadArticulo": 82,
+    "idArticulo": 627,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 364.92
+  },
+  {
+    "cantidadArticulo": 2254,
+    "idArticulo": 718,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 378.72
+  },
+  {
+    "cantidadArticulo": 18,
+    "idArticulo": 458,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 106.87
+  },
+  {
+    "cantidadArticulo": 88,
+    "idArticulo": 136,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 275.08
+  },
+  {
+    "cantidadArticulo": 37,
+    "idArticulo": 789,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 211.13
+  },
+  {
+    "cantidadArticulo": 6874,
+    "idArticulo": 240,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 471.68
+  },
+  {
+    "cantidadArticulo": 66,
+    "idArticulo": 41,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 499.17
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 511,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 248.87
+  },
+  {
+    "cantidadArticulo": 84,
+    "idArticulo": 173,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 106.47
+  },
+  {
+    "cantidadArticulo": 163,
+    "idArticulo": 192,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 469.03
+  },
+  {
+    "cantidadArticulo": 531,
+    "idArticulo": 884,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 203.9
+  },
+  {
+    "cantidadArticulo": 602,
+    "idArticulo": 452,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 290.3
+  },
+  {
+    "cantidadArticulo": 28,
+    "idArticulo": 159,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 268.79
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 246,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 24.03
+  },
+  {
+    "cantidadArticulo": 70,
+    "idArticulo": 4720,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 416.19
+  },
+  {
+    "cantidadArticulo": 53,
+    "idArticulo": 512,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 152.08
+  },
+  {
+    "cantidadArticulo": 374,
+    "idArticulo": 676,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 95.33
+  },
+  {
+    "cantidadArticulo": 97,
+    "idArticulo": 960,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 394.19
+  },
+  {
+    "cantidadArticulo": 71,
+    "idArticulo": 49805,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 359.74
+  },
+  {
+    "cantidadArticulo": 680,
+    "idArticulo": 217,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 321.18
+  },
+  {
+    "cantidadArticulo": 185,
+    "idArticulo": 124,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 211.59
+  },
+  {
+    "cantidadArticulo": 69,
+    "idArticulo": 375,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 99.45
+  },
+  {
+    "cantidadArticulo": 55,
+    "idArticulo": 238,
+    "nombreArticulo": "Razer BlackWidow Keyboard",
+    "precioArticulo": 455.56
+  },
+  {
+    "cantidadArticulo": 9956,
+    "idArticulo": 755,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 317.78
+  },
+  {
+    "cantidadArticulo": 23,
+    "idArticulo": 58,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 51.79
+  },
+  {
+    "cantidadArticulo": 761,
+    "idArticulo": 179,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 301.92
+  },
+  {
+    "cantidadArticulo": 2784,
+    "idArticulo": 554,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 392.16
+  },
+  {
+    "cantidadArticulo": 96,
+    "idArticulo": 840,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 261.73
+  },
+  {
+    "cantidadArticulo": 92,
+    "idArticulo": 161,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 226.75
+  },
+  {
+    "cantidadArticulo": 67,
+    "idArticulo": 659,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 109.43
+  },
+  {
+    "cantidadArticulo": 39,
+    "idArticulo": 219,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 251.63
+  },
+  {
+    "cantidadArticulo": 78,
+    "idArticulo": 157,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 26.84
+  },
+  {
+    "cantidadArticulo": 28,
+    "idArticulo": 439,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 387.66
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 991,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 256.92
+  },
+  {
+    "cantidadArticulo": 12,
+    "idArticulo": 747,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 49.2
+  },
+  {
+    "cantidadArticulo": 7583,
+    "idArticulo": 812,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 96.89
+  },
+  {
+    "cantidadArticulo": 60,
+    "idArticulo": 820,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 449.38
+  },
+  {
+    "cantidadArticulo": 62,
+    "idArticulo": 460,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 243.64
+  },
+  {
+    "cantidadArticulo": 587,
+    "idArticulo": 6207,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 316.08
+  },
+  {
+    "cantidadArticulo": 22,
+    "idArticulo": 238,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 298.49
+  },
+  {
+    "cantidadArticulo": 166,
+    "idArticulo": 191,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 175.58
+  },
+  {
+    "cantidadArticulo": 5,
+    "idArticulo": 255,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 10.3
+  },
+  {
+    "cantidadArticulo": 67,
+    "idArticulo": 689,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 309.45
+  },
+  {
+    "cantidadArticulo": 27,
+    "idArticulo": 3813,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 418.37
+  },
+  {
+    "cantidadArticulo": 86,
+    "idArticulo": 6169,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 206.6
+  },
+  {
+    "cantidadArticulo": 72,
+    "idArticulo": 510,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 468.29
+  },
+  {
+    "cantidadArticulo": 90,
+    "idArticulo": 169,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 270
+  },
+  {
+    "cantidadArticulo": 4996,
+    "idArticulo": 583,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 106.48
+  },
+  {
+    "cantidadArticulo": 882,
+    "idArticulo": 347,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 42.48
+  },
+  {
+    "cantidadArticulo": 9326,
+    "idArticulo": 351,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 443.94
+  },
+  {
+    "cantidadArticulo": 23,
+    "idArticulo": 891,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 32.03
+  },
+  {
+    "cantidadArticulo": 6630,
+    "idArticulo": 517,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 421.78
+  },
+  {
+    "cantidadArticulo": 37,
+    "idArticulo": 572,
+    "nombreArticulo": "Gigabyte B550 AORUS",
+    "precioArticulo": 222.08
+  },
+  {
+    "cantidadArticulo": 400,
+    "idArticulo": 5357,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 310.14
+  },
+  {
+    "cantidadArticulo": 169,
+    "idArticulo": 208,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 209.11
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 889,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 418.53
+  },
+  {
+    "cantidadArticulo": 353,
+    "idArticulo": 291,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 410.39
+  },
+  {
+    "cantidadArticulo": 773,
+    "idArticulo": 435,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 44.52
+  },
+  {
+    "cantidadArticulo": 91,
+    "idArticulo": 231,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 242.97
+  },
+  {
+    "cantidadArticulo": 30,
+    "idArticulo": 302,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 304.84
+  },
+  {
+    "cantidadArticulo": 109,
+    "idArticulo": 568,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 46.9
+  },
+  {
+    "cantidadArticulo": 93,
+    "idArticulo": 677,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 243
+  },
+  {
+    "cantidadArticulo": 60,
+    "idArticulo": 419,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 236.8
+  },
+  {
+    "cantidadArticulo": 667,
+    "idArticulo": 872,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 415.18
+  },
+  {
+    "cantidadArticulo": 34,
+    "idArticulo": 734,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 356.49
+  },
+  {
+    "cantidadArticulo": 452,
+    "idArticulo": 224,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 105.04
+  },
+  {
+    "cantidadArticulo": 16,
+    "idArticulo": 448,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 176.86
+  },
+  {
+    "cantidadArticulo": 9476,
+    "idArticulo": 773,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 421.37
+  },
+  {
+    "cantidadArticulo": 3,
+    "idArticulo": 714,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 235.61
+  },
+  {
+    "cantidadArticulo": 659,
+    "idArticulo": 860,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 117.42
+  },
+  {
+    "cantidadArticulo": 9157,
+    "idArticulo": 21,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 330.11
+  },
+  {
+    "cantidadArticulo": 916,
+    "idArticulo": 351,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 348.73
+  },
+  {
+    "cantidadArticulo": 658,
+    "idArticulo": 601,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 495.02
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 249,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 293.03
+  },
+  {
+    "cantidadArticulo": 71,
+    "idArticulo": 863,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 130.03
+  },
+  {
+    "cantidadArticulo": 859,
+    "idArticulo": 156,
+    "nombreArticulo": "Intel i9",
+    "precioArticulo": 291.51
+  },
+  {
+    "cantidadArticulo": 15,
+    "idArticulo": 391,
+    "nombreArticulo": "Gigabyte B550 AORUS",
+    "precioArticulo": 209.58
+  },
+  {
+    "cantidadArticulo": 81,
+    "idArticulo": 14,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 355.41
+  },
+  {
+    "cantidadArticulo": 89,
+    "idArticulo": 89,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 427.76
+  },
+  {
+    "cantidadArticulo": 255,
+    "idArticulo": 559,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 204.95
+  },
+  {
+    "cantidadArticulo": 875,
+    "idArticulo": 118,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 53.82
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 813,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 140.7
+  },
+  {
+    "cantidadArticulo": 580,
+    "idArticulo": 861,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 208.71
+  },
+  {
+    "cantidadArticulo": 808,
+    "idArticulo": 430,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 497.44
+  },
+  {
+    "cantidadArticulo": 639,
+    "idArticulo": 370,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 89.13
+  },
+  {
+    "cantidadArticulo": 6945,
+    "idArticulo": 297,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 404.57
+  },
+  {
+    "cantidadArticulo": 2,
+    "idArticulo": 652,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 284.53
+  },
+  {
+    "cantidadArticulo": 23,
+    "idArticulo": 238,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 111.38
+  },
+  {
+    "cantidadArticulo": 95,
+    "idArticulo": 369,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 302.54
+  },
+  {
+    "cantidadArticulo": 402,
+    "idArticulo": 361,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 107.44
+  },
+  {
+    "cantidadArticulo": 3834,
+    "idArticulo": 591,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 196.65
+  },
+  {
+    "cantidadArticulo": 52,
+    "idArticulo": 535,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 136.99
+  },
+  {
+    "cantidadArticulo": 37,
+    "idArticulo": 960,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 448.01
+  },
+  {
+    "cantidadArticulo": 89,
+    "idArticulo": 324,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 126.64
+  },
+  {
+    "cantidadArticulo": 86672,
+    "idArticulo": 892,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 325.9
+  },
+  {
+    "cantidadArticulo": 3384,
+    "idArticulo": 218,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 393.49
+  },
+  {
+    "cantidadArticulo": 2595,
+    "idArticulo": 790,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 453.77
+  },
+  {
+    "cantidadArticulo": 39,
+    "idArticulo": 397,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 317
+  },
+  {
+    "cantidadArticulo": 8104,
+    "idArticulo": 324,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 69.88
+  },
+  {
+    "cantidadArticulo": 9,
+    "idArticulo": 537,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 457.04
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 92,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 57.69
+  },
+  {
+    "cantidadArticulo": 569,
+    "idArticulo": 505,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 267.46
+  },
+  {
+    "cantidadArticulo": 14,
+    "idArticulo": 308,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 165.88
+  },
+  {
+    "cantidadArticulo": 23,
+    "idArticulo": 2714,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 216.79
+  },
+  {
+    "cantidadArticulo": 22,
+    "idArticulo": 914,
+    "nombreArticulo": "Intel i9",
+    "precioArticulo": 386.11
+  },
+  {
+    "cantidadArticulo": 96,
+    "idArticulo": 866,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 90.41
+  },
+  {
+    "cantidadArticulo": 92,
+    "idArticulo": 645,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 422.05
+  },
+  {
+    "cantidadArticulo": 42,
+    "idArticulo": 149,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 391.29
+  },
+  {
+    "cantidadArticulo": 3,
+    "idArticulo": 262,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 71.75
+  },
+  {
+    "cantidadArticulo": 1336,
+    "idArticulo": 610,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 379.57
+  },
+  {
+    "cantidadArticulo": 545,
+    "idArticulo": 474,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 284.92
+  },
+  {
+    "cantidadArticulo": 779,
+    "idArticulo": 408,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 228.97
+  },
+  {
+    "cantidadArticulo": 95,
+    "idArticulo": 849,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 312.96
+  },
+  {
+    "cantidadArticulo": 3,
+    "idArticulo": 175,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 421.92
+  },
+  {
+    "cantidadArticulo": 480,
+    "idArticulo": 86,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 238.21
+  },
+  {
+    "cantidadArticulo": 8843,
+    "idArticulo": 656,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 53.61
+  },
+  {
+    "cantidadArticulo": 94,
+    "idArticulo": 507,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 263.04
+  },
+  {
+    "cantidadArticulo": 54,
+    "idArticulo": 503,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 251.02
+  },
+  {
+    "cantidadArticulo": 354,
+    "idArticulo": 168,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 242.11
+  },
+  {
+    "cantidadArticulo": 13,
+    "idArticulo": 983,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 245.09
+  },
+  {
+    "cantidadArticulo": 8,
+    "idArticulo": 288,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 298.1
+  },
+  {
+    "cantidadArticulo": 400,
+    "idArticulo": 428,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 312.99
+  },
+  {
+    "cantidadArticulo": 74,
+    "idArticulo": 984,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 467.19
+  },
+  {
+    "cantidadArticulo": 77,
+    "idArticulo": 476,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 14.26
+  },
+  {
+    "cantidadArticulo": 54,
+    "idArticulo": 631,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 298.6
+  },
+  {
+    "cantidadArticulo": 80,
+    "idArticulo": 441,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 280.18
+  },
+  {
+    "cantidadArticulo": 96,
+    "idArticulo": 810,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 54.06
+  },
+  {
+    "cantidadArticulo": 69,
+    "idArticulo": 459,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 217.35
+  },
+  {
+    "cantidadArticulo": 44,
+    "idArticulo": 267,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 204.54
+  },
+  {
+    "cantidadArticulo": 16,
+    "idArticulo": 629,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 216.95
+  },
+  {
+    "cantidadArticulo": 90,
+    "idArticulo": 2108,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 301.73
+  },
+  {
+    "cantidadArticulo": 12,
+    "idArticulo": 7678,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 130.89
+  },
+  {
+    "cantidadArticulo": 59552,
+    "idArticulo": 77,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 344.23
+  },
+  {
+    "cantidadArticulo": 13,
+    "idArticulo": 351,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 64.4
+  },
+  {
+    "cantidadArticulo": 65,
+    "idArticulo": 3345,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 23.17
+  },
+  {
+    "cantidadArticulo": 745,
+    "idArticulo": 1618,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 412.74
+  },
+  {
+    "cantidadArticulo": 96,
+    "idArticulo": 220,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 499.88
+  },
+  {
+    "cantidadArticulo": 13,
+    "idArticulo": 461,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 111.99
+  },
+  {
+    "cantidadArticulo": 67,
+    "idArticulo": 592,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 115.51
+  },
+  {
+    "cantidadArticulo": 65,
+    "idArticulo": 862,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 330.29
+  },
+  {
+    "cantidadArticulo": 701,
+    "idArticulo": 626,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 30.16
+  },
+  {
+    "cantidadArticulo": 91,
+    "idArticulo": 211,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 386.74
+  },
+  {
+    "cantidadArticulo": 665,
+    "idArticulo": 985,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 17.62
+  },
+  {
+    "cantidadArticulo": 97,
+    "idArticulo": 944,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 243.41
+  },
+  {
+    "cantidadArticulo": 63,
+    "idArticulo": 94224,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 119.16
+  },
+  {
+    "cantidadArticulo": 721,
+    "idArticulo": 489,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 326.56
+  },
+  {
+    "cantidadArticulo": 65,
+    "idArticulo": 372,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 253.72
+  },
+  {
+    "cantidadArticulo": 80,
+    "idArticulo": 644,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 415.3
+  },
+  {
+    "cantidadArticulo": 62,
+    "idArticulo": 341,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 118.72
+  },
+  {
+    "cantidadArticulo": 778,
+    "idArticulo": 22240,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 95.17
+  },
+  {
+    "cantidadArticulo": 78,
+    "idArticulo": 326,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 161.06
+  },
+  {
+    "cantidadArticulo": 66,
+    "idArticulo": 806,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 330.31
+  },
+  {
+    "cantidadArticulo": 48,
+    "idArticulo": 11,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 412.77
+  },
+  {
+    "cantidadArticulo": 394,
+    "idArticulo": 419,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 206.22
+  },
+  {
+    "cantidadArticulo": 64,
+    "idArticulo": 208,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 366.01
+  },
+  {
+    "cantidadArticulo": 3909,
+    "idArticulo": 381,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 100.99
+  },
+  {
+    "cantidadArticulo": 1,
+    "idArticulo": 830,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 389.75
+  },
+  {
+    "cantidadArticulo": 380,
+    "idArticulo": 384,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 204.92
+  },
+  {
+    "cantidadArticulo": 34,
+    "idArticulo": 738,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 350.64
+  },
+  {
+    "cantidadArticulo": 41,
+    "idArticulo": 223,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 196.27
+  },
+  {
+    "cantidadArticulo": 49,
+    "idArticulo": 862,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 71.16
+  },
+  {
+    "cantidadArticulo": 596,
+    "idArticulo": 881,
+    "nombreArticulo": "Intel i9",
+    "precioArticulo": 318.35
+  },
+  {
+    "cantidadArticulo": 17,
+    "idArticulo": 817,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 259.02
+  },
+  {
+    "cantidadArticulo": 36,
+    "idArticulo": 167,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 367.46
+  },
+  {
+    "cantidadArticulo": 9,
+    "idArticulo": 384,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 449.26
+  },
+  {
+    "cantidadArticulo": 856,
+    "idArticulo": 37,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 233.29
+  },
+  {
+    "cantidadArticulo": 84,
+    "idArticulo": 295,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 317.99
+  },
+  {
+    "cantidadArticulo": 27,
+    "idArticulo": 272,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 247.75
+  },
+  {
+    "cantidadArticulo": 9916,
+    "idArticulo": 702,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 459.48
+  },
+  {
+    "cantidadArticulo": 32,
+    "idArticulo": 77590,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 476.11
+  },
+  {
+    "cantidadArticulo": 449,
+    "idArticulo": 302,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 260.94
+  },
+  {
+    "cantidadArticulo": 23,
+    "idArticulo": 208,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 221.26
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 280,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 449.07
+  },
+  {
+    "cantidadArticulo": 64,
+    "idArticulo": 854,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 177.75
+  },
+  {
+    "cantidadArticulo": 48,
+    "idArticulo": 248,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 65.57
+  },
+  {
+    "cantidadArticulo": 282,
+    "idArticulo": 72,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 355.41
+  },
+  {
+    "cantidadArticulo": 33,
+    "idArticulo": 862,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 463.94
+  },
+  {
+    "cantidadArticulo": 48,
+    "idArticulo": 698,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 15.73
+  },
+  {
+    "cantidadArticulo": 492,
+    "idArticulo": 246,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 386.5
+  },
+  {
+    "cantidadArticulo": 607,
+    "idArticulo": 399,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 76.37
+  },
+  {
+    "cantidadArticulo": 22,
+    "idArticulo": 2196,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 482.14
+  },
+  {
+    "cantidadArticulo": 187,
+    "idArticulo": 9259,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 67.57
+  },
+  {
+    "cantidadArticulo": 95,
+    "idArticulo": 92,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 442.84
+  },
+  {
+    "cantidadArticulo": 973,
+    "idArticulo": 469,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 276.69
+  },
+  {
+    "cantidadArticulo": 2,
+    "idArticulo": 1436,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 437.32
+  },
+  {
+    "cantidadArticulo": 4214,
+    "idArticulo": 93,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 348.7
+  },
+  {
+    "cantidadArticulo": 74,
+    "idArticulo": 710,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 339.32
+  },
+  {
+    "cantidadArticulo": 753,
+    "idArticulo": 82,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 318.52
+  },
+  {
+    "cantidadArticulo": 384,
+    "idArticulo": 956,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 360.35
+  },
+  {
+    "cantidadArticulo": 810,
+    "idArticulo": 4871,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 174.86
+  },
+  {
+    "cantidadArticulo": 14,
+    "idArticulo": 746,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 146.14
+  },
+  {
+    "cantidadArticulo": 591,
+    "idArticulo": 105,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 326.64
+  },
+  {
+    "cantidadArticulo": 6250,
+    "idArticulo": 741,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 15.61
+  },
+  {
+    "cantidadArticulo": 28,
+    "idArticulo": 797,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 386.01
+  },
+  {
+    "cantidadArticulo": 51,
+    "idArticulo": 316,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 279.21
+  },
+  {
+    "cantidadArticulo": 30,
+    "idArticulo": 127,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 115.62
+  },
+  {
+    "cantidadArticulo": 564,
+    "idArticulo": 746,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 50.08
+  },
+  {
+    "cantidadArticulo": 65,
+    "idArticulo": 798,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 450.57
+  },
+  {
+    "cantidadArticulo": 363,
+    "idArticulo": 966,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 325.4
+  },
+  {
+    "cantidadArticulo": 6,
+    "idArticulo": 388,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 392.99
+  },
+  {
+    "cantidadArticulo": 34,
+    "idArticulo": 929758,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 35.12
+  },
+  {
+    "cantidadArticulo": 61,
+    "idArticulo": 398,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 259.18
+  },
+  {
+    "cantidadArticulo": 59,
+    "idArticulo": 7,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 284.68
+  },
+  {
+    "cantidadArticulo": 4662,
+    "idArticulo": 532,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 452.83
+  },
+  {
+    "cantidadArticulo": 8,
+    "idArticulo": 699,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 308.82
+  },
+  {
+    "cantidadArticulo": 533,
+    "idArticulo": 393,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 64.86
+  },
+  {
+    "cantidadArticulo": 12,
+    "idArticulo": 23651,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 15.02
+  },
+  {
+    "cantidadArticulo": 92,
+    "idArticulo": 594,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 354.96
+  },
+  {
+    "cantidadArticulo": 8,
+    "idArticulo": 949,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 364.04
+  },
+  {
+    "cantidadArticulo": 94,
+    "idArticulo": 442,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 365.35
+  },
+  {
+    "cantidadArticulo": 98,
+    "idArticulo": 252,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 142.39
+  },
+  {
+    "cantidadArticulo": 85,
+    "idArticulo": 873,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 32.89
+  },
+  {
+    "cantidadArticulo": 5134,
+    "idArticulo": 524,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 351.89
+  },
+  {
+    "cantidadArticulo": 35,
+    "idArticulo": 301,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 100.15
+  },
+  {
+    "cantidadArticulo": 7549,
+    "idArticulo": 806,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 147.23
+  },
+  {
+    "cantidadArticulo": 5511,
+    "idArticulo": 925,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 222.24
+  },
+  {
+    "cantidadArticulo": 214,
+    "idArticulo": 105,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 137.9
+  },
+  {
+    "cantidadArticulo": 109,
+    "idArticulo": 368,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 247.61
+  },
+  {
+    "cantidadArticulo": 15,
+    "idArticulo": 726,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 381.24
+  },
+  {
+    "cantidadArticulo": 42,
+    "idArticulo": 191,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 306.66
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 923,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 78.41
+  },
+  {
+    "cantidadArticulo": 51,
+    "idArticulo": 5627,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 163.3
+  },
+  {
+    "cantidadArticulo": 461,
+    "idArticulo": 796,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 237.79
+  },
+  {
+    "cantidadArticulo": 173,
+    "idArticulo": 2706,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 221.4
+  },
+  {
+    "cantidadArticulo": 916,
+    "idArticulo": 628,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 177.53
+  },
+  {
+    "cantidadArticulo": 72,
+    "idArticulo": 669,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 446.35
+  },
+  {
+    "cantidadArticulo": 7,
+    "idArticulo": 685,
+    "nombreArticulo": "Intel i9",
+    "precioArticulo": 113.43
+  },
+  {
+    "cantidadArticulo": 39,
+    "idArticulo": 832,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 72.07
+  },
+  {
+    "cantidadArticulo": 4,
+    "idArticulo": 3589,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 361.52
+  },
+  {
+    "cantidadArticulo": 2,
+    "idArticulo": 608,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 462.28
+  },
+  {
+    "cantidadArticulo": 923,
+    "idArticulo": 607,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 20.8
+  },
+  {
+    "cantidadArticulo": 8,
+    "idArticulo": 494,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 32.46
+  },
+  {
+    "cantidadArticulo": 583,
+    "idArticulo": 169,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 271.31
+  },
+  {
+    "cantidadArticulo": 31,
+    "idArticulo": 121,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 263.73
+  },
+  {
+    "cantidadArticulo": 4,
+    "idArticulo": 7413,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 13.06
+  },
+  {
+    "cantidadArticulo": 963,
+    "idArticulo": 763,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 268.98
+  },
+  {
+    "cantidadArticulo": 814,
+    "idArticulo": 21,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 65.79
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 161,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 265.47
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 186,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 426.4
+  },
+  {
+    "cantidadArticulo": 151,
+    "idArticulo": 924,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 162.22
+  },
+  {
+    "cantidadArticulo": 435,
+    "idArticulo": 193,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 238.3
+  },
+  {
+    "cantidadArticulo": 520,
+    "idArticulo": 414,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 455.75
+  },
+  {
+    "cantidadArticulo": 20,
+    "idArticulo": 218,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 151.39
+  },
+  {
+    "cantidadArticulo": 545,
+    "idArticulo": 601,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 239.05
+  },
+  {
+    "cantidadArticulo": 89,
+    "idArticulo": 8,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 153.03
+  },
+  {
+    "cantidadArticulo": 35,
+    "idArticulo": 768,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 115.54
+  },
+  {
+    "cantidadArticulo": 5641,
+    "idArticulo": 274,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 89.67
+  },
+  {
+    "cantidadArticulo": 25,
+    "idArticulo": 704,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 366.59
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 508,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 392.06
+  },
+  {
+    "cantidadArticulo": 87,
+    "idArticulo": 4333,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 434.53
+  },
+  {
+    "cantidadArticulo": 755,
+    "idArticulo": 11684,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 39.59
+  },
+  {
+    "cantidadArticulo": 321,
+    "idArticulo": 974,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 36.72
+  },
+  {
+    "cantidadArticulo": 17,
+    "idArticulo": 1300,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 453.19
+  },
+  {
+    "cantidadArticulo": 27,
+    "idArticulo": 365,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 498.74
+  },
+  {
+    "cantidadArticulo": 84,
+    "idArticulo": 592,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 39.84
+  },
+  {
+    "cantidadArticulo": 77,
+    "idArticulo": 912,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 248.68
+  },
+  {
+    "cantidadArticulo": 9,
+    "idArticulo": 90,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 391.88
+  },
+  {
+    "cantidadArticulo": 89,
+    "idArticulo": 425,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 220.96
+  },
+  {
+    "cantidadArticulo": 86,
+    "idArticulo": 29,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 322.53
+  },
+  {
+    "cantidadArticulo": 508,
+    "idArticulo": 928,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 448.07
+  },
+  {
+    "cantidadArticulo": 1134,
+    "idArticulo": 655,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 212.73
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 492,
+    "nombreArticulo": "Razer BlackWidow Keyboard",
+    "precioArticulo": 372.96
+  },
+  {
+    "cantidadArticulo": 49,
+    "idArticulo": 170,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 334.02
+  },
+  {
+    "cantidadArticulo": 346,
+    "idArticulo": 69,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 453.46
+  },
+  {
+    "cantidadArticulo": 306,
+    "idArticulo": 283,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 428.16
+  },
+  {
+    "cantidadArticulo": 8702,
+    "idArticulo": 789,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 163.6
+  },
+  {
+    "cantidadArticulo": 485,
+    "idArticulo": 32,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 118.49
+  },
+  {
+    "cantidadArticulo": 3504,
+    "idArticulo": 31,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 447.77
+  },
+  {
+    "cantidadArticulo": 13,
+    "idArticulo": 966,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 87.77
+  },
+  {
+    "cantidadArticulo": 37,
+    "idArticulo": 262,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 324.54
+  },
+  {
+    "cantidadArticulo": 668,
+    "idArticulo": 476,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 286.49
+  },
+  {
+    "cantidadArticulo": 7898,
+    "idArticulo": 845,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 27.67
+  },
+  {
+    "cantidadArticulo": 46,
+    "idArticulo": 869,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 366
+  },
+  {
+    "cantidadArticulo": 91,
+    "idArticulo": 608,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 202.16
+  },
+  {
+    "cantidadArticulo": 230,
+    "idArticulo": 5814,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 330.49
+  },
+  {
+    "cantidadArticulo": 138,
+    "idArticulo": 913,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 453.21
+  },
+  {
+    "cantidadArticulo": 9503,
+    "idArticulo": 878,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 392.21
+  },
+  {
+    "cantidadArticulo": 553,
+    "idArticulo": 344,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 313.64
+  },
+  {
+    "cantidadArticulo": 82,
+    "idArticulo": 8927,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 79.02
+  },
+  {
+    "cantidadArticulo": 69,
+    "idArticulo": 892,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 295.48
+  },
+  {
+    "cantidadArticulo": 4834,
+    "idArticulo": 317,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 288.78
+  },
+  {
+    "cantidadArticulo": 622,
+    "idArticulo": 6711,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 415.24
+  },
+  {
+    "cantidadArticulo": 70,
+    "idArticulo": 180,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 425.89
+  },
+  {
+    "cantidadArticulo": 6218,
+    "idArticulo": 928,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 371.98
+  },
+  {
+    "cantidadArticulo": 146,
+    "idArticulo": 981,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 409.79
+  },
+  {
+    "cantidadArticulo": 828,
+    "idArticulo": 413,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 325.43
+  },
+  {
+    "cantidadArticulo": 80,
+    "idArticulo": 2547,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 172.23
+  },
+  {
+    "cantidadArticulo": 284,
+    "idArticulo": 50,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 17.99
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 884,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 385.62
+  },
+  {
+    "cantidadArticulo": 562,
+    "idArticulo": 282,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 360.15
+  },
+  {
+    "cantidadArticulo": 97,
+    "idArticulo": 817,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 62.17
+  },
+  {
+    "cantidadArticulo": 3203,
+    "idArticulo": 569,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 458.74
+  },
+  {
+    "cantidadArticulo": 51,
+    "idArticulo": 864,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 73.86
+  },
+  {
+    "cantidadArticulo": 8365,
+    "idArticulo": 179,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 444.77
+  },
+  {
+    "cantidadArticulo": 278,
+    "idArticulo": 933,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 264.07
+  },
+  {
+    "cantidadArticulo": 288,
+    "idArticulo": 51,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 29.95
+  },
+  {
+    "cantidadArticulo": 381,
+    "idArticulo": 596,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 137.34
+  },
+  {
+    "cantidadArticulo": 479,
+    "idArticulo": 50,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 207.19
+  },
+  {
+    "cantidadArticulo": 816,
+    "idArticulo": 8740,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 295.54
+  },
+  {
+    "cantidadArticulo": 162,
+    "idArticulo": 1636,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 299.75
+  },
+  {
+    "cantidadArticulo": 649,
+    "idArticulo": 10,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 243.6
+  },
+  {
+    "cantidadArticulo": 39,
+    "idArticulo": 600,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 419.73
+  },
+  {
+    "cantidadArticulo": 602,
+    "idArticulo": 815,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 391.7
+  },
+  {
+    "cantidadArticulo": 505,
+    "idArticulo": 741,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 488.63
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 112,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 433.66
+  },
+  {
+    "cantidadArticulo": 68,
+    "idArticulo": 959,
+    "nombreArticulo": "Razer BlackWidow Keyboard",
+    "precioArticulo": 374.67
+  },
+  {
+    "cantidadArticulo": 39,
+    "idArticulo": 346,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 160.44
+  },
+  {
+    "cantidadArticulo": 80,
+    "idArticulo": 145,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 377.47
+  },
+  {
+    "cantidadArticulo": 9474,
+    "idArticulo": 598,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 427.53
+  },
+  {
+    "cantidadArticulo": 16,
+    "idArticulo": 7916,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 253
+  },
+  {
+    "cantidadArticulo": 500,
+    "idArticulo": 414,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 433.37
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 126,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 390.05
+  },
+  {
+    "cantidadArticulo": 96,
+    "idArticulo": 666,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 360.39
+  },
+  {
+    "cantidadArticulo": 68,
+    "idArticulo": 2818,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 275.92
+  },
+  {
+    "cantidadArticulo": 55,
+    "idArticulo": 253,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 442.12
+  },
+  {
+    "cantidadArticulo": 9659,
+    "idArticulo": 34,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 333.76
+  },
+  {
+    "cantidadArticulo": 305,
+    "idArticulo": 680,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 25.78
+  },
+  {
+    "cantidadArticulo": 817,
+    "idArticulo": 303,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 132.26
+  },
+  {
+    "cantidadArticulo": 87,
+    "idArticulo": 503,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 83.4
+  },
+  {
+    "cantidadArticulo": 8645,
+    "idArticulo": 39,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 406.65
+  },
+  {
+    "cantidadArticulo": 5796,
+    "idArticulo": 480,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 323.41
+  },
+  {
+    "cantidadArticulo": 47,
+    "idArticulo": 490,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 385.13
+  },
+  {
+    "cantidadArticulo": 498,
+    "idArticulo": 824,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 489.53
+  },
+  {
+    "cantidadArticulo": 27,
+    "idArticulo": 334,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 47.07
+  },
+  {
+    "cantidadArticulo": 614,
+    "idArticulo": 355,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 446.08
+  },
+  {
+    "cantidadArticulo": 77,
+    "idArticulo": 825,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 459.71
+  },
+  {
+    "cantidadArticulo": 5197,
+    "idArticulo": 434,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 35.91
+  },
+  {
+    "cantidadArticulo": 657,
+    "idArticulo": 643,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 340.24
+  },
+  {
+    "cantidadArticulo": 17,
+    "idArticulo": 285,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 371.19
+  },
+  {
+    "cantidadArticulo": 212,
+    "idArticulo": 696,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 160.2
+  },
+  {
+    "cantidadArticulo": 29,
+    "idArticulo": 227,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 414.1
+  },
+  {
+    "cantidadArticulo": 5583,
+    "idArticulo": 712,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 279.57
+  },
+  {
+    "cantidadArticulo": 9972,
+    "idArticulo": 921,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 107.39
+  },
+  {
+    "cantidadArticulo": 53,
+    "idArticulo": 345,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 390.32
+  },
+  {
+    "cantidadArticulo": 98,
+    "idArticulo": 128,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 473.19
+  },
+  {
+    "cantidadArticulo": 7,
+    "idArticulo": 539,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 31.41
+  },
+  {
+    "cantidadArticulo": 19,
+    "idArticulo": 643,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 386.2
+  },
+  {
+    "cantidadArticulo": 45,
+    "idArticulo": 35,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 194.29
+  },
+  {
+    "cantidadArticulo": 8,
+    "idArticulo": 960,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 261.36
+  },
+  {
+    "cantidadArticulo": 297,
+    "idArticulo": 630,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 70.13
+  },
+  {
+    "cantidadArticulo": 18,
+    "idArticulo": 821,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 282.66
+  },
+  {
+    "cantidadArticulo": 345,
+    "idArticulo": 916,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 158.87
+  },
+  {
+    "cantidadArticulo": 56,
+    "idArticulo": 740,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 390.5
+  },
+  {
+    "cantidadArticulo": 114,
+    "idArticulo": 850,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 34.89
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 740,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 47.92
+  },
+  {
+    "cantidadArticulo": 86427,
+    "idArticulo": 6501,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 346.73
+  },
+  {
+    "cantidadArticulo": 293,
+    "idArticulo": 124,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 352.89
+  },
+  {
+    "cantidadArticulo": 634,
+    "idArticulo": 472,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 22.85
+  },
+  {
+    "cantidadArticulo": 798,
+    "idArticulo": 148,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 478.07
+  },
+  {
+    "cantidadArticulo": 60,
+    "idArticulo": 401,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 463.15
+  },
+  {
+    "cantidadArticulo": 485,
+    "idArticulo": 630,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 325.03
+  },
+  {
+    "cantidadArticulo": 53,
+    "idArticulo": 729,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 42.59
+  },
+  {
+    "cantidadArticulo": 1,
+    "idArticulo": 646,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 194.36
+  },
+  {
+    "cantidadArticulo": 5,
+    "idArticulo": 634,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 198.42
+  },
+  {
+    "cantidadArticulo": 387,
+    "idArticulo": 144,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 223.53
+  },
+  {
+    "cantidadArticulo": 347,
+    "idArticulo": 198,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 295.29
+  },
+  {
+    "cantidadArticulo": 22,
+    "idArticulo": 372,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 150.13
+  },
+  {
+    "cantidadArticulo": 1898,
+    "idArticulo": 911,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 379.15
+  },
+  {
+    "cantidadArticulo": 905,
+    "idArticulo": 227,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 16.29
+  },
+  {
+    "cantidadArticulo": 78,
+    "idArticulo": 709,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 494.18
+  },
+  {
+    "cantidadArticulo": 21,
+    "idArticulo": 46,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 304.39
+  },
+  {
+    "cantidadArticulo": 761,
+    "idArticulo": 307,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 466.74
+  },
+  {
+    "cantidadArticulo": 47,
+    "idArticulo": 472,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 25.33
+  },
+  {
+    "cantidadArticulo": 7112,
+    "idArticulo": 125,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 277.48
+  },
+  {
+    "cantidadArticulo": 47,
+    "idArticulo": 5532,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 340.07
+  },
+  {
+    "cantidadArticulo": 8,
+    "idArticulo": 506,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 285.41
+  },
+  {
+    "cantidadArticulo": 42,
+    "idArticulo": 380,
+    "nombreArticulo": "Intel i9",
+    "precioArticulo": 240.92
+  },
+  {
+    "cantidadArticulo": 387,
+    "idArticulo": 192,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 392.94
+  },
+  {
+    "cantidadArticulo": 5900,
+    "idArticulo": 937,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 221.94
+  },
+  {
+    "cantidadArticulo": 1793,
+    "idArticulo": 253,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 146.77
+  },
+  {
+    "cantidadArticulo": 5,
+    "idArticulo": 31,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 326.25
+  },
+  {
+    "cantidadArticulo": 6,
+    "idArticulo": 739,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 77.04
+  },
+  {
+    "cantidadArticulo": 1,
+    "idArticulo": 354,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 185.07
+  },
+  {
+    "cantidadArticulo": 66,
+    "idArticulo": 127,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 17.99
+  },
+  {
+    "cantidadArticulo": 39,
+    "idArticulo": 998,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 451.24
+  },
+  {
+    "cantidadArticulo": 707,
+    "idArticulo": 8813,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 282.88
+  },
+  {
+    "cantidadArticulo": 32,
+    "idArticulo": 107,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 219.35
+  },
+  {
+    "cantidadArticulo": 887,
+    "idArticulo": 3267,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 218.47
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 771,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 33.89
+  },
+  {
+    "cantidadArticulo": 9,
+    "idArticulo": 4784,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 288.28
+  },
+  {
+    "cantidadArticulo": 480,
+    "idArticulo": 248,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 151.3
+  },
+  {
+    "cantidadArticulo": 788,
+    "idArticulo": 431,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 131.71
+  },
+  {
+    "cantidadArticulo": 871,
+    "idArticulo": 268,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 244.41
+  },
+  {
+    "cantidadArticulo": 812,
+    "idArticulo": 565,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 30.94
+  },
+  {
+    "cantidadArticulo": 795,
+    "idArticulo": 883,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 175.16
+  },
+  {
+    "cantidadArticulo": 19,
+    "idArticulo": 32,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 378.16
+  },
+  {
+    "cantidadArticulo": 8237,
+    "idArticulo": 3,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 220.64
+  },
+  {
+    "cantidadArticulo": 84,
+    "idArticulo": 6756,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 23.13
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 277,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 371.33
+  },
+  {
+    "cantidadArticulo": 315,
+    "idArticulo": 607,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 32.32
+  },
+  {
+    "cantidadArticulo": 78,
+    "idArticulo": 376,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 152.47
+  },
+  {
+    "cantidadArticulo": 13,
+    "idArticulo": 783,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 176.21
+  },
+  {
+    "cantidadArticulo": 10,
+    "idArticulo": 991,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 333.18
+  },
+  {
+    "cantidadArticulo": 47,
+    "idArticulo": 709,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 414.49
+  },
+  {
+    "cantidadArticulo": 51,
+    "idArticulo": 699,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 218.29
+  },
+  {
+    "cantidadArticulo": 868,
+    "idArticulo": 507,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 260.32
+  },
+  {
+    "cantidadArticulo": 19,
+    "idArticulo": 3622,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 23.71
+  },
+  {
+    "cantidadArticulo": 42403,
+    "idArticulo": 85,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 105.96
+  },
+  {
+    "cantidadArticulo": 73,
+    "idArticulo": 791,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 99.37
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 401,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 361.26
+  },
+  {
+    "cantidadArticulo": 1994,
+    "idArticulo": 44,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 319.48
+  },
+  {
+    "cantidadArticulo": 8690,
+    "idArticulo": 643,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 400.88
+  },
+  {
+    "cantidadArticulo": 34,
+    "idArticulo": 396,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 140.91
+  },
+  {
+    "cantidadArticulo": 6,
+    "idArticulo": 5440,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 490.13
+  },
+  {
+    "cantidadArticulo": 656,
+    "idArticulo": 1436,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 328.23
+  },
+  {
+    "cantidadArticulo": 68,
+    "idArticulo": 372,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 452.31
+  },
+  {
+    "cantidadArticulo": 296,
+    "idArticulo": 453,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 106.32
+  },
+  {
+    "cantidadArticulo": 1692,
+    "idArticulo": 271,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 120.59
+  },
+  {
+    "cantidadArticulo": 31,
+    "idArticulo": 925,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 65.49
+  },
+  {
+    "cantidadArticulo": 73,
+    "idArticulo": 366,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 407.92
+  },
+  {
+    "cantidadArticulo": 32,
+    "idArticulo": 332,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 92.58
+  },
+  {
+    "cantidadArticulo": 100,
+    "idArticulo": 45,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 467.08
+  },
+  {
+    "cantidadArticulo": 75,
+    "idArticulo": 811,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 291.51
+  },
+  {
+    "cantidadArticulo": 4920,
+    "idArticulo": 180,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 179.25
+  },
+  {
+    "cantidadArticulo": 61,
+    "idArticulo": 119,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 411.88
+  },
+  {
+    "cantidadArticulo": 594,
+    "idArticulo": 7764,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 225.95
+  },
+  {
+    "cantidadArticulo": 46,
+    "idArticulo": 391,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 475.43
+  },
+  {
+    "cantidadArticulo": 6,
+    "idArticulo": 120,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 482.23
+  },
+  {
+    "cantidadArticulo": 152,
+    "idArticulo": 998,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 361.9
+  },
+  {
+    "cantidadArticulo": 28,
+    "idArticulo": 8370,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 133.48
+  },
+  {
+    "cantidadArticulo": 421,
+    "idArticulo": 620,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 413.01
+  },
+  {
+    "cantidadArticulo": 79,
+    "idArticulo": 641,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 468.48
+  },
+  {
+    "cantidadArticulo": 42,
+    "idArticulo": 2,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 461.4
+  },
+  {
+    "cantidadArticulo": 9482,
+    "idArticulo": 281,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 241.47
+  },
+  {
+    "cantidadArticulo": 39,
+    "idArticulo": 854,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 192.39
+  },
+  {
+    "cantidadArticulo": 7786,
+    "idArticulo": 225,
+    "nombreArticulo": "Gigabyte B550 AORUS",
+    "precioArticulo": 434.83
+  },
+  {
+    "cantidadArticulo": 368,
+    "idArticulo": 474,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 41.99
+  },
+  {
+    "cantidadArticulo": 3810,
+    "idArticulo": 722,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 78.86
+  },
+  {
+    "cantidadArticulo": 354,
+    "idArticulo": 984,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 106.46
+  },
+  {
+    "cantidadArticulo": 2807,
+    "idArticulo": 392,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 247.38
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 112,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 218.43
+  },
+  {
+    "cantidadArticulo": 37,
+    "idArticulo": 127,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 202.34
+  },
+  {
+    "cantidadArticulo": 988,
+    "idArticulo": 942,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 459.85
+  },
+  {
+    "cantidadArticulo": 219,
+    "idArticulo": 895,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 344.58
+  },
+  {
+    "cantidadArticulo": 97,
+    "idArticulo": 501,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 110.78
+  },
+  {
+    "cantidadArticulo": 278,
+    "idArticulo": 270,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 477.7
+  },
+  {
+    "cantidadArticulo": 14,
+    "idArticulo": 417,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 38.33
+  },
+  {
+    "cantidadArticulo": 776,
+    "idArticulo": 8139,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 474.46
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 705,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 141.1
+  },
+  {
+    "cantidadArticulo": 988,
+    "idArticulo": 138,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 36.68
+  },
+  {
+    "cantidadArticulo": 865,
+    "idArticulo": 6126,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 149.33
+  },
+  {
+    "cantidadArticulo": 542,
+    "idArticulo": 561,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 157.99
+  },
+  {
+    "cantidadArticulo": 651,
+    "idArticulo": 328,
+    "nombreArticulo": "Gigabyte B550 AORUS",
+    "precioArticulo": 290.33
+  },
+  {
+    "cantidadArticulo": 551,
+    "idArticulo": 70,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 232.64
+  },
+  {
+    "cantidadArticulo": 9,
+    "idArticulo": 342,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 309.16
+  },
+  {
+    "cantidadArticulo": 79,
+    "idArticulo": 208,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 45.13
+  },
+  {
+    "cantidadArticulo": 48,
+    "idArticulo": 317,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 277.92
+  },
+  {
+    "cantidadArticulo": 969,
+    "idArticulo": 790,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 491.68
+  },
+  {
+    "cantidadArticulo": 55,
+    "idArticulo": 163,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 372.76
+  },
+  {
+    "cantidadArticulo": 96,
+    "idArticulo": 870,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 107.44
+  },
+  {
+    "cantidadArticulo": 23,
+    "idArticulo": 643,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 85.8
+  },
+  {
+    "cantidadArticulo": 251,
+    "idArticulo": 359,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 96.07
+  },
+  {
+    "cantidadArticulo": 32,
+    "idArticulo": 606,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 177.8
+  },
+  {
+    "cantidadArticulo": 769,
+    "idArticulo": 899,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 438.04
+  },
+  {
+    "cantidadArticulo": 89,
+    "idArticulo": 875,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 295
+  },
+  {
+    "cantidadArticulo": 4533,
+    "idArticulo": 98,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 321.71
+  },
+  {
+    "cantidadArticulo": 67,
+    "idArticulo": 602,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 475.11
+  },
+  {
+    "cantidadArticulo": 7560,
+    "idArticulo": 551,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 428.08
+  },
+  {
+    "cantidadArticulo": 73,
+    "idArticulo": 1700,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 129.35
+  },
+  {
+    "cantidadArticulo": 90,
+    "idArticulo": 754,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 340.62
+  },
+  {
+    "cantidadArticulo": 7111,
+    "idArticulo": 6422,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 441.16
+  },
+  {
+    "cantidadArticulo": 640,
+    "idArticulo": 956,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 367.78
+  },
+  {
+    "cantidadArticulo": 703,
+    "idArticulo": 889,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 355.75
+  },
+  {
+    "cantidadArticulo": 9671,
+    "idArticulo": 384,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 398.67
+  },
+  {
+    "cantidadArticulo": 895,
+    "idArticulo": 350,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 161.19
+  },
+  {
+    "cantidadArticulo": 100,
+    "idArticulo": 551,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 175.82
+  },
+  {
+    "cantidadArticulo": 1863,
+    "idArticulo": 143,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 51.71
+  },
+  {
+    "cantidadArticulo": 13,
+    "idArticulo": 161,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 224.16
+  },
+  {
+    "cantidadArticulo": 85,
+    "idArticulo": 151,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 150.92
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 71,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 366.68
+  },
+  {
+    "cantidadArticulo": 6,
+    "idArticulo": 626,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 352.19
+  },
+  {
+    "cantidadArticulo": 9,
+    "idArticulo": 828,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 365.99
+  },
+  {
+    "cantidadArticulo": 1,
+    "idArticulo": 866,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 191.21
+  },
+  {
+    "cantidadArticulo": 995,
+    "idArticulo": 128,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 102.74
+  },
+  {
+    "cantidadArticulo": 225,
+    "idArticulo": 77771,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 165.49
+  },
+  {
+    "cantidadArticulo": 98,
+    "idArticulo": 531,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 30.51
+  },
+  {
+    "cantidadArticulo": 1799,
+    "idArticulo": 449,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 235.27
+  },
+  {
+    "cantidadArticulo": 646,
+    "idArticulo": 865,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 289.62
+  },
+  {
+    "cantidadArticulo": 48,
+    "idArticulo": 312,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 450.11
+  },
+  {
+    "cantidadArticulo": 18,
+    "idArticulo": 745,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 230.18
+  },
+  {
+    "cantidadArticulo": 509,
+    "idArticulo": 324,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 76.36
+  },
+  {
+    "cantidadArticulo": 38,
+    "idArticulo": 27,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 407.38
+  },
+  {
+    "cantidadArticulo": 775,
+    "idArticulo": 229,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 81.06
+  },
+  {
+    "cantidadArticulo": 313,
+    "idArticulo": 355,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 312.04
+  },
+  {
+    "cantidadArticulo": 29,
+    "idArticulo": 4769,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 381.26
+  },
+  {
+    "cantidadArticulo": 17,
+    "idArticulo": 374,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 422.5
+  },
+  {
+    "cantidadArticulo": 95366,
+    "idArticulo": 586,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 137.83
+  },
+  {
+    "cantidadArticulo": 561,
+    "idArticulo": 85297,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 473.54
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 4226,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 363.16
+  },
+  {
+    "cantidadArticulo": 24,
+    "idArticulo": 647,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 301.02
+  },
+  {
+    "cantidadArticulo": 5,
+    "idArticulo": 839,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 282.83
+  },
+  {
+    "cantidadArticulo": 316,
+    "idArticulo": 30,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 250.8
+  },
+  {
+    "cantidadArticulo": 42,
+    "idArticulo": 118,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 84.26
+  },
+  {
+    "cantidadArticulo": 21,
+    "idArticulo": 20,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 135.66
+  },
+  {
+    "cantidadArticulo": 25649,
+    "idArticulo": 744,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 362.35
+  },
+  {
+    "cantidadArticulo": 83,
+    "idArticulo": 3368,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 184.13
+  },
+  {
+    "cantidadArticulo": 7,
+    "idArticulo": 877,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 38.93
+  },
+  {
+    "cantidadArticulo": 29,
+    "idArticulo": 116,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 282.14
+  },
+  {
+    "cantidadArticulo": 223,
+    "idArticulo": 247,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 221.14
+  },
+  {
+    "cantidadArticulo": 360,
+    "idArticulo": 840,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 382.74
+  },
+  {
+    "cantidadArticulo": 216,
+    "idArticulo": 808,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 93.81
+  },
+  {
+    "cantidadArticulo": 92,
+    "idArticulo": 498,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 268.61
+  },
+  {
+    "cantidadArticulo": 21,
+    "idArticulo": 4774,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 352.37
+  },
+  {
+    "cantidadArticulo": 54,
+    "idArticulo": 514,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 222.77
+  },
+  {
+    "cantidadArticulo": 1986,
+    "idArticulo": 844,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 465.99
+  },
+  {
+    "cantidadArticulo": 1,
+    "idArticulo": 760,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 152.1
+  },
+  {
+    "cantidadArticulo": 60,
+    "idArticulo": 954,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 193.7
+  },
+  {
+    "cantidadArticulo": 552,
+    "idArticulo": 2632,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 159.5
+  },
+  {
+    "cantidadArticulo": 7111,
+    "idArticulo": 379,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 424.75
+  },
+  {
+    "cantidadArticulo": 3329,
+    "idArticulo": 619,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 124.35
+  },
+  {
+    "cantidadArticulo": 6176,
+    "idArticulo": 643,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 344.26
+  },
+  {
+    "cantidadArticulo": 63,
+    "idArticulo": 2825,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 268.79
+  },
+  {
+    "cantidadArticulo": 872,
+    "idArticulo": 721,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 336.93
+  },
+  {
+    "cantidadArticulo": 358,
+    "idArticulo": 818,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 257.28
+  },
+  {
+    "cantidadArticulo": 246,
+    "idArticulo": 830,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 191.28
+  },
+  {
+    "cantidadArticulo": 854,
+    "idArticulo": 704,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 349.2
+  },
+  {
+    "cantidadArticulo": 75,
+    "idArticulo": 104,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 81.88
+  },
+  {
+    "cantidadArticulo": 42,
+    "idArticulo": 5166,
+    "nombreArticulo": "Razer BlackWidow Keyboard",
+    "precioArticulo": 78.01
+  },
+  {
+    "cantidadArticulo": 186,
+    "idArticulo": 292,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 354.37
+  },
+  {
+    "cantidadArticulo": 5,
+    "idArticulo": 422,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 305.3
+  },
+  {
+    "cantidadArticulo": 3010,
+    "idArticulo": 997,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 132.45
+  },
+  {
+    "cantidadArticulo": 79,
+    "idArticulo": 670,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 463.05
+  },
+  {
+    "cantidadArticulo": 74,
+    "idArticulo": 112,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 403.88
+  },
+  {
+    "cantidadArticulo": 45,
+    "idArticulo": 528,
+    "nombreArticulo": "Gigabyte B550 AORUS",
+    "precioArticulo": 366.7
+  },
+  {
+    "cantidadArticulo": 2,
+    "idArticulo": 941,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 320.03
+  },
+  {
+    "cantidadArticulo": 54,
+    "idArticulo": 397,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 178.54
+  },
+  {
+    "cantidadArticulo": 360,
+    "idArticulo": 355,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 330.84
+  },
+  {
+    "cantidadArticulo": 25,
+    "idArticulo": 375,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 173.97
+  },
+  {
+    "cantidadArticulo": 566,
+    "idArticulo": 720,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 159.85
+  },
+  {
+    "cantidadArticulo": 67,
+    "idArticulo": 241,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 407.89
+  },
+  {
+    "cantidadArticulo": 312,
+    "idArticulo": 889,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 456.55
+  },
+  {
+    "cantidadArticulo": 17,
+    "idArticulo": 44380,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 126.71
+  },
+  {
+    "cantidadArticulo": 94,
+    "idArticulo": 145,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 494.85
+  },
+  {
+    "cantidadArticulo": 505,
+    "idArticulo": 264,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 342.05
+  },
+  {
+    "cantidadArticulo": 903,
+    "idArticulo": 485,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 379.25
+  },
+  {
+    "cantidadArticulo": 449,
+    "idArticulo": 96,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 472.29
+  },
+  {
+    "cantidadArticulo": 68,
+    "idArticulo": 753,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 20.34
+  },
+  {
+    "cantidadArticulo": 76,
+    "idArticulo": 930,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 101.79
+  },
+  {
+    "cantidadArticulo": 7981,
+    "idArticulo": 964,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 74.88
+  },
+  {
+    "cantidadArticulo": 978,
+    "idArticulo": 901,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 176.15
+  },
+  {
+    "cantidadArticulo": 7,
+    "idArticulo": 357,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 206.7
+  },
+  {
+    "cantidadArticulo": 16,
+    "idArticulo": 581,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 171.4
+  },
+  {
+    "cantidadArticulo": 288,
+    "idArticulo": 1163,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 85.42
+  },
+  {
+    "cantidadArticulo": 82,
+    "idArticulo": 689,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 131.67
+  },
+  {
+    "cantidadArticulo": 701,
+    "idArticulo": 653,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 492.04
+  },
+  {
+    "cantidadArticulo": 92,
+    "idArticulo": 857,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 76.68
+  },
+  {
+    "cantidadArticulo": 67,
+    "idArticulo": 170,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 20.45
+  },
+  {
+    "cantidadArticulo": 91,
+    "idArticulo": 425,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 286.74
+  },
+  {
+    "cantidadArticulo": 654,
+    "idArticulo": 85,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 248.57
+  },
+  {
+    "cantidadArticulo": 7650,
+    "idArticulo": 223,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 23.77
+  },
+  {
+    "cantidadArticulo": 886,
+    "idArticulo": 259,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 414.34
+  },
+  {
+    "cantidadArticulo": 86,
+    "idArticulo": 2523,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 142.18
+  },
+  {
+    "cantidadArticulo": 40,
+    "idArticulo": 678,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 201.94
+  },
+  {
+    "cantidadArticulo": 65,
+    "idArticulo": 633,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 416.38
+  },
+  {
+    "cantidadArticulo": 15,
+    "idArticulo": 95,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 210.89
+  },
+  {
+    "cantidadArticulo": 965,
+    "idArticulo": 149,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 210.6
+  },
+  {
+    "cantidadArticulo": 559,
+    "idArticulo": 734,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 147.85
+  },
+  {
+    "cantidadArticulo": 75,
+    "idArticulo": 523,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 30.82
+  },
+  {
+    "cantidadArticulo": 97,
+    "idArticulo": 5,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 351.88
+  },
+  {
+    "cantidadArticulo": 14,
+    "idArticulo": 329,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 94.05
+  },
+  {
+    "cantidadArticulo": 322,
+    "idArticulo": 5393,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 170.12
+  },
+  {
+    "cantidadArticulo": 11,
+    "idArticulo": 521,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 255.77
+  },
+  {
+    "cantidadArticulo": 127,
+    "idArticulo": 849,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 102.41
+  },
+  {
+    "cantidadArticulo": 232,
+    "idArticulo": 981,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 380.1
+  },
+  {
+    "cantidadArticulo": 869,
+    "idArticulo": 2622,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 76.79
+  },
+  {
+    "cantidadArticulo": 14,
+    "idArticulo": 772,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 111.69
+  },
+  {
+    "cantidadArticulo": 692,
+    "idArticulo": 37,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 33.98
+  },
+  {
+    "cantidadArticulo": 81,
+    "idArticulo": 861,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 240.65
+  },
+  {
+    "cantidadArticulo": 89,
+    "idArticulo": 845,
+    "nombreArticulo": "Intel i9",
+    "precioArticulo": 470.21
+  },
+  {
+    "cantidadArticulo": 86,
+    "idArticulo": 84,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 44.55
+  },
+  {
+    "cantidadArticulo": 26,
+    "idArticulo": 969,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 230.21
+  },
+  {
+    "cantidadArticulo": 705,
+    "idArticulo": 3180,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 44.11
+  },
+  {
+    "cantidadArticulo": 2,
+    "idArticulo": 632,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 28.85
+  },
+  {
+    "cantidadArticulo": 415,
+    "idArticulo": 186,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 339.54
+  },
+  {
+    "cantidadArticulo": 7388,
+    "idArticulo": 431,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 107.47
+  },
+  {
+    "cantidadArticulo": 6236,
+    "idArticulo": 6821,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 229.37
+  },
+  {
+    "cantidadArticulo": 899,
+    "idArticulo": 725,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 314.49
+  },
+  {
+    "cantidadArticulo": 125,
+    "idArticulo": 538,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 217.41
+  },
+  {
+    "cantidadArticulo": 79,
+    "idArticulo": 482,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 146.27
+  },
+  {
+    "cantidadArticulo": 7193,
+    "idArticulo": 439,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 432.65
+  },
+  {
+    "cantidadArticulo": 12,
+    "idArticulo": 547,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 308.78
+  },
+  {
+    "cantidadArticulo": 108,
+    "idArticulo": 952,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 138.3
+  },
+  {
+    "cantidadArticulo": 42,
+    "idArticulo": 119,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 285.23
+  },
+  {
+    "cantidadArticulo": 16,
+    "idArticulo": 984,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 133.12
+  },
+  {
+    "cantidadArticulo": 4426,
+    "idArticulo": 826,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 402.92
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 981,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 378.3
+  },
+  {
+    "cantidadArticulo": 960,
+    "idArticulo": 867,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 390.47
+  },
+  {
+    "cantidadArticulo": 338,
+    "idArticulo": 765,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 344.75
+  },
+  {
+    "cantidadArticulo": 33,
+    "idArticulo": 123,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 54.08
+  },
+  {
+    "cantidadArticulo": 548,
+    "idArticulo": 516,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 349.81
+  },
+  {
+    "cantidadArticulo": 7,
+    "idArticulo": 359,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 431.9
+  },
+  {
+    "cantidadArticulo": 974,
+    "idArticulo": 733,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 363.32
+  },
+  {
+    "cantidadArticulo": 33,
+    "idArticulo": 422,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 113.77
+  },
+  {
+    "cantidadArticulo": 6623,
+    "idArticulo": 57,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 160.58
+  },
+  {
+    "cantidadArticulo": 97,
+    "idArticulo": 470,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 109.82
+  },
+  {
+    "cantidadArticulo": 605,
+    "idArticulo": 779,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 29.68
+  },
+  {
+    "cantidadArticulo": 10,
+    "idArticulo": 429,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 334.39
+  },
+  {
+    "cantidadArticulo": 2508,
+    "idArticulo": 742,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 82.45
+  },
+  {
+    "cantidadArticulo": 55,
+    "idArticulo": 623,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 90.54
+  },
+  {
+    "cantidadArticulo": 73,
+    "idArticulo": 470,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 63.49
+  },
+  {
+    "cantidadArticulo": 114,
+    "idArticulo": 120,
+    "nombreArticulo": "Gigabyte B550 AORUS",
+    "precioArticulo": 364.03
+  },
+  {
+    "cantidadArticulo": 72,
+    "idArticulo": 296,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 117.12
+  },
+  {
+    "cantidadArticulo": 71,
+    "idArticulo": 958,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 497.32
+  },
+  {
+    "cantidadArticulo": 3477,
+    "idArticulo": 905,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 276.31
+  },
+  {
+    "cantidadArticulo": 61,
+    "idArticulo": 6299,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 21.45
+  },
+  {
+    "cantidadArticulo": 90,
+    "idArticulo": 664,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 296.2
+  },
+  {
+    "cantidadArticulo": 705,
+    "idArticulo": 639,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 290.89
+  },
+  {
+    "cantidadArticulo": 34431,
+    "idArticulo": 601,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 360.27
+  },
+  {
+    "cantidadArticulo": 6527,
+    "idArticulo": 4181,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 437.17
+  },
+  {
+    "cantidadArticulo": 873,
+    "idArticulo": 269,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 137.58
+  },
+  {
+    "cantidadArticulo": 79,
+    "idArticulo": 563,
+    "nombreArticulo": "Thermaltake RGB Case Fan",
+    "precioArticulo": 55.66
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 863,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 209.81
+  },
+  {
+    "cantidadArticulo": 933,
+    "idArticulo": 388,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 480.8
+  },
+  {
+    "cantidadArticulo": 9770,
+    "idArticulo": 632,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 288.79
+  },
+  {
+    "cantidadArticulo": 59,
+    "idArticulo": 963,
+    "nombreArticulo": "Google Pixel 6",
+    "precioArticulo": 383.24
+  },
+  {
+    "cantidadArticulo": 217,
+    "idArticulo": 474,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 305.62
+  },
+  {
+    "cantidadArticulo": 5218,
+    "idArticulo": 6530,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 405.24
+  },
+  {
+    "cantidadArticulo": 306,
+    "idArticulo": 917,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 213.16
+  },
+  {
+    "cantidadArticulo": 517,
+    "idArticulo": 293,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 418.61
+  },
+  {
+    "cantidadArticulo": 64,
+    "idArticulo": 676,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 118.73
+  },
+  {
+    "cantidadArticulo": 4,
+    "idArticulo": 70,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 19.08
+  },
+  {
+    "cantidadArticulo": 4460,
+    "idArticulo": 75,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 295.22
+  },
+  {
+    "cantidadArticulo": 2147,
+    "idArticulo": 338,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 316.77
+  },
+  {
+    "cantidadArticulo": 508,
+    "idArticulo": 160,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 438.12
+  },
+  {
+    "cantidadArticulo": 27,
+    "idArticulo": 543,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 223.85
+  },
+  {
+    "cantidadArticulo": 42,
+    "idArticulo": 696,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 351.38
+  },
+  {
+    "cantidadArticulo": 41,
+    "idArticulo": 441,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 99.03
+  },
+  {
+    "cantidadArticulo": 7658,
+    "idArticulo": 39,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 409.03
+  },
+  {
+    "cantidadArticulo": 598,
+    "idArticulo": 626,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 357.38
+  },
+  {
+    "cantidadArticulo": 6507,
+    "idArticulo": 344,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 145.22
+  },
+  {
+    "cantidadArticulo": 958,
+    "idArticulo": 177,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 11.94
+  },
+  {
+    "cantidadArticulo": 118,
+    "idArticulo": 138,
+    "nombreArticulo": "Gigabyte B550 AORUS",
+    "precioArticulo": 53.1
+  },
+  {
+    "cantidadArticulo": 9,
+    "idArticulo": 126,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 76.85
+  },
+  {
+    "cantidadArticulo": 87,
+    "idArticulo": 853,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 101.54
+  },
+  {
+    "cantidadArticulo": 33,
+    "idArticulo": 635,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 19.23
+  },
+  {
+    "cantidadArticulo": 420,
+    "idArticulo": 580,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 304.76
+  },
+  {
+    "cantidadArticulo": 100,
+    "idArticulo": 7989,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 76.02
+  },
+  {
+    "cantidadArticulo": 86,
+    "idArticulo": 151,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 355.86
+  },
+  {
+    "cantidadArticulo": 100,
+    "idArticulo": 234,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 212.97
+  },
+  {
+    "cantidadArticulo": 18,
+    "idArticulo": 4,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 355.43
+  },
+  {
+    "cantidadArticulo": 23,
+    "idArticulo": 85,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 362.91
+  },
+  {
+    "cantidadArticulo": 5958,
+    "idArticulo": 493,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 373.87
+  },
+  {
+    "cantidadArticulo": 935,
+    "idArticulo": 138,
+    "nombreArticulo": "NVIDIA RTX 3080",
+    "precioArticulo": 438.46
+  },
+  {
+    "cantidadArticulo": 129,
+    "idArticulo": 479,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 136.19
+  },
+  {
+    "cantidadArticulo": 71,
+    "idArticulo": 81,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 287.21
+  },
+  {
+    "cantidadArticulo": 20,
+    "idArticulo": 7632,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 469.8
+  },
+  {
+    "cantidadArticulo": 559,
+    "idArticulo": 875,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 256.43
+  },
+  {
+    "cantidadArticulo": 259,
+    "idArticulo": 766,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 336.88
+  },
+  {
+    "cantidadArticulo": 345,
+    "idArticulo": 709,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 425.22
+  },
+  {
+    "cantidadArticulo": 55,
+    "idArticulo": 417,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 493.81
+  },
+  {
+    "cantidadArticulo": 570,
+    "idArticulo": 665,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 367.63
+  },
+  {
+    "cantidadArticulo": 904,
+    "idArticulo": 790,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 79.85
+  },
+  {
+    "cantidadArticulo": 93,
+    "idArticulo": 256,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 151.53
+  },
+  {
+    "cantidadArticulo": 9423,
+    "idArticulo": 120,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 470.42
+  },
+  {
+    "cantidadArticulo": 230,
+    "idArticulo": 714,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 175.31
+  },
+  {
+    "cantidadArticulo": 77,
+    "idArticulo": 47,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 245.57
+  },
+  {
+    "cantidadArticulo": 663,
+    "idArticulo": 619,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 84.9
+  },
+  {
+    "cantidadArticulo": 31,
+    "idArticulo": 417,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 229.17
+  },
+  {
+    "cantidadArticulo": 82,
+    "idArticulo": 937,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 419.49
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 518,
+    "nombreArticulo": "Razer BlackWidow Keyboard",
+    "precioArticulo": 186.58
+  },
+  {
+    "cantidadArticulo": 7715,
+    "idArticulo": 812,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 143.31
+  },
+  {
+    "cantidadArticulo": 56,
+    "idArticulo": 493,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 406.52
+  },
+  {
+    "cantidadArticulo": 97,
+    "idArticulo": 893,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 93.07
+  },
+  {
+    "cantidadArticulo": 664,
+    "idArticulo": 163,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 371.34
+  },
+  {
+    "cantidadArticulo": 97,
+    "idArticulo": 393,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 282.3
+  },
+  {
+    "cantidadArticulo": 308,
+    "idArticulo": 542,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 228.93
+  },
+  {
+    "cantidadArticulo": 1102,
+    "idArticulo": 205,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 138.91
+  },
+  {
+    "cantidadArticulo": 866,
+    "idArticulo": 928,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 66.57
+  },
+  {
+    "cantidadArticulo": 82,
+    "idArticulo": 915,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 299.34
+  },
+  {
+    "cantidadArticulo": 31,
+    "idArticulo": 2240,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 160.21
+  },
+  {
+    "cantidadArticulo": 46,
+    "idArticulo": 667,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 218.62
+  },
+  {
+    "cantidadArticulo": 8,
+    "idArticulo": 961,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 237.05
+  },
+  {
+    "cantidadArticulo": 727,
+    "idArticulo": 824,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 81.18
+  },
+  {
+    "cantidadArticulo": 262,
+    "idArticulo": 188,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 341.25
+  },
+  {
+    "cantidadArticulo": 200,
+    "idArticulo": 689,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 383.18
+  },
+  {
+    "cantidadArticulo": 135,
+    "idArticulo": 135,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 220.35
+  },
+  {
+    "cantidadArticulo": 6246,
+    "idArticulo": 5293,
+    "nombreArticulo": "Corsair 4000D Airflow",
+    "precioArticulo": 200.53
+  },
+  {
+    "cantidadArticulo": 6,
+    "idArticulo": 438,
+    "nombreArticulo": "Cooler Master CPU Cooler",
+    "precioArticulo": 146.99
+  },
+  {
+    "cantidadArticulo": 381,
+    "idArticulo": 950,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 39.42
+  },
+  {
+    "cantidadArticulo": 199,
+    "idArticulo": 536,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 320.36
+  },
+  {
+    "cantidadArticulo": 42,
+    "idArticulo": 8252,
+    "nombreArticulo": "Oculus Quest VR Headset",
+    "precioArticulo": 310.6
+  },
+  {
+    "cantidadArticulo": 368,
+    "idArticulo": 7506,
+    "nombreArticulo": "Sony PlayStation 5",
+    "precioArticulo": 404.78
+  },
+  {
+    "cantidadArticulo": 332,
+    "idArticulo": 278,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 357.12
+  },
+  {
+    "cantidadArticulo": 24,
+    "idArticulo": 602,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 128.16
+  },
+  {
+    "cantidadArticulo": 407,
+    "idArticulo": 390,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 67.95
+  },
+  {
+    "cantidadArticulo": 443,
+    "idArticulo": 417,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 265.12
+  },
+  {
+    "cantidadArticulo": 980,
+    "idArticulo": 107,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 359.33
+  },
+  {
+    "cantidadArticulo": 5982,
+    "idArticulo": 1624,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 359.35
+  },
+  {
+    "cantidadArticulo": 27,
+    "idArticulo": 619,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 370.28
+  },
+  {
+    "cantidadArticulo": 11,
+    "idArticulo": 349,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 218.24
+  },
+  {
+    "cantidadArticulo": 731,
+    "idArticulo": 443,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 172.3
+  },
+  {
+    "cantidadArticulo": 6838,
+    "idArticulo": 85,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 133.42
+  },
+  {
+    "cantidadArticulo": 328,
+    "idArticulo": 711,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 195.89
+  },
+  {
+    "cantidadArticulo": 654,
+    "idArticulo": 711,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 460.56
+  },
+  {
+    "cantidadArticulo": 97,
+    "idArticulo": 3584,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 215.76
+  },
+  {
+    "cantidadArticulo": 44,
+    "idArticulo": 378,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 368.57
+  },
+  {
+    "cantidadArticulo": 783,
+    "idArticulo": 968,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 389.7
+  },
+  {
+    "cantidadArticulo": 3715,
+    "idArticulo": 869,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 307.04
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 42752,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 73.47
+  },
+  {
+    "cantidadArticulo": 29,
+    "idArticulo": 504,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 433.97
+  },
+  {
+    "cantidadArticulo": 5943,
+    "idArticulo": 3902,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 480.52
+  },
+  {
+    "cantidadArticulo": 35,
+    "idArticulo": 536,
+    "nombreArticulo": "Apple iPhone 13",
+    "precioArticulo": 149.16
+  },
+  {
+    "cantidadArticulo": 96,
+    "idArticulo": 408,
+    "nombreArticulo": "Razer BlackWidow Keyboard",
+    "precioArticulo": 204.77
+  },
+  {
+    "cantidadArticulo": 45,
+    "idArticulo": 788,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 74.73
+  },
+  {
+    "cantidadArticulo": 18,
+    "idArticulo": 313,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 294.79
+  },
+  {
+    "cantidadArticulo": 39,
+    "idArticulo": 7450,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 27.04
+  },
+  {
+    "cantidadArticulo": 866,
+    "idArticulo": 113,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 294.46
+  },
+  {
+    "cantidadArticulo": 269,
+    "idArticulo": 759,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 235.5
+  },
+  {
+    "cantidadArticulo": 54,
+    "idArticulo": 246,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 256.58
+  },
+  {
+    "cantidadArticulo": 52,
+    "idArticulo": 6340,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 23.38
+  },
+  {
+    "cantidadArticulo": 841,
+    "idArticulo": 18,
+    "nombreArticulo": "Intel i9",
+    "precioArticulo": 22.05
+  },
+  {
+    "cantidadArticulo": 100,
+    "idArticulo": 729,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 404.57
+  },
+  {
+    "cantidadArticulo": 25,
+    "idArticulo": 733,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 90.76
+  },
+  {
+    "cantidadArticulo": 84,
+    "idArticulo": 654,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 252.69
+  },
+  {
+    "cantidadArticulo": 4461,
+    "idArticulo": 952,
+    "nombreArticulo": "Gigabyte AORUS",
+    "precioArticulo": 42.99
+  },
+  {
+    "cantidadArticulo": 411,
+    "idArticulo": 19577,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 95.1
+  },
+  {
+    "cantidadArticulo": 71,
+    "idArticulo": 189,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 46.41
+  },
+  {
+    "cantidadArticulo": 78,
+    "idArticulo": 2213,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 84.99
+  },
+  {
+    "cantidadArticulo": 73,
+    "idArticulo": 742,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 452.02
+  },
+  {
+    "cantidadArticulo": 95,
+    "idArticulo": 638,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 354.6
+  },
+  {
+    "cantidadArticulo": 46,
+    "idArticulo": 786,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 82.76
+  },
+  {
+    "cantidadArticulo": 62,
+    "idArticulo": 799,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 52.09
+  },
+  {
+    "cantidadArticulo": 6697,
+    "idArticulo": 5991,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 357.65
+  },
+  {
+    "cantidadArticulo": 390,
+    "idArticulo": 636,
+    "nombreArticulo": "Bose QuietComfort Headphones",
+    "precioArticulo": 245.66
+  },
+  {
+    "cantidadArticulo": 9249,
+    "idArticulo": 15,
+    "nombreArticulo": "MSI Gaming Laptop",
+    "precioArticulo": 220.87
+  },
+  {
+    "cantidadArticulo": 49,
+    "idArticulo": 223,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 276.49
+  },
+  {
+    "cantidadArticulo": 4209,
+    "idArticulo": 487,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 487.38
+  },
+  {
+    "cantidadArticulo": 234,
+    "idArticulo": 872,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 113.53
+  },
+  {
+    "cantidadArticulo": 251,
+    "idArticulo": 161,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 279.15
+  },
+  {
+    "cantidadArticulo": 44,
+    "idArticulo": 461,
+    "nombreArticulo": "Kingston HyperX Cloud II",
+    "precioArticulo": 406.17
+  },
+  {
+    "cantidadArticulo": 840,
+    "idArticulo": 2,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 424.91
+  },
+  {
+    "cantidadArticulo": 36,
+    "idArticulo": 953,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 128.43
+  },
+  {
+    "cantidadArticulo": 6554,
+    "idArticulo": 762,
+    "nombreArticulo": "Fractal Design Meshify",
+    "precioArticulo": 365.37
+  },
+  {
+    "cantidadArticulo": 88,
+    "idArticulo": 3727,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 486.66
+  },
+  {
+    "cantidadArticulo": 75,
+    "idArticulo": 308,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 286.78
+  },
+  {
+    "cantidadArticulo": 58,
+    "idArticulo": 984,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 28.15
+  },
+  {
+    "cantidadArticulo": 424,
+    "idArticulo": 212,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 323.97
+  },
+  {
+    "cantidadArticulo": 2,
+    "idArticulo": 798,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 114.22
+  },
+  {
+    "cantidadArticulo": 33,
+    "idArticulo": 91,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 369.25
+  },
+  {
+    "cantidadArticulo": 489,
+    "idArticulo": 913,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 269.89
+  },
+  {
+    "cantidadArticulo": 8186,
+    "idArticulo": 957,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 55.5
+  },
+  {
+    "cantidadArticulo": 96,
+    "idArticulo": 204,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 93.83
+  },
+  {
+    "cantidadArticulo": 917,
+    "idArticulo": 207,
+    "nombreArticulo": "Antec HCG Gold",
+    "precioArticulo": 383.94
+  },
+  {
+    "cantidadArticulo": 9,
+    "idArticulo": 681,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 413.55
+  },
+  {
+    "cantidadArticulo": 49,
+    "idArticulo": 4153,
+    "nombreArticulo": "Razer BlackWidow Keyboard",
+    "precioArticulo": 292.18
+  },
+  {
+    "cantidadArticulo": 48,
+    "idArticulo": 742,
+    "nombreArticulo": "Thermal Grizzly Kryonaut",
+    "precioArticulo": 65.08
+  },
+  {
+    "cantidadArticulo": 883,
+    "idArticulo": 655,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 80.69
+  },
+  {
+    "cantidadArticulo": 954,
+    "idArticulo": 698,
+    "nombreArticulo": "Microsoft Xbox Series X",
+    "precioArticulo": 83.83
+  },
+  {
+    "cantidadArticulo": 85,
+    "idArticulo": 487,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 351.32
+  },
+  {
+    "cantidadArticulo": 8138,
+    "idArticulo": 920,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 182.05
+  },
+  {
+    "cantidadArticulo": 22,
+    "idArticulo": 395,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 266.62
+  },
+  {
+    "cantidadArticulo": 57,
+    "idArticulo": 303,
+    "nombreArticulo": "Corsair Vengeance RAM",
+    "precioArticulo": 221.69
+  },
+  {
+    "cantidadArticulo": 9,
+    "idArticulo": 949,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 456.66
+  },
+  {
+    "cantidadArticulo": 504,
+    "idArticulo": 179,
+    "nombreArticulo": "SeaSonic Focus Plus",
+    "precioArticulo": 455.81
+  },
+  {
+    "cantidadArticulo": 449,
+    "idArticulo": 924,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 409.47
+  },
+  {
+    "cantidadArticulo": 49,
+    "idArticulo": 231,
+    "nombreArticulo": "Deepcool Gammaxx",
+    "precioArticulo": 353.74
+  },
+  {
+    "cantidadArticulo": 10,
+    "idArticulo": 945,
+    "nombreArticulo": "Western Digital Blue HDD",
+    "precioArticulo": 19.64
+  },
+  {
+    "cantidadArticulo": 18,
+    "idArticulo": 474,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 179.15
+  },
+  {
+    "cantidadArticulo": 99,
+    "idArticulo": 227,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 16
+  },
+  {
+    "cantidadArticulo": 2369,
+    "idArticulo": 424,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 352.37
+  },
+  {
+    "cantidadArticulo": 50,
+    "idArticulo": 2348,
+    "nombreArticulo": "Cooler Master MWE Gold",
+    "precioArticulo": 29.33
+  },
+  {
+    "cantidadArticulo": 38,
+    "idArticulo": 3319,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 284.14
+  },
+  {
+    "cantidadArticulo": 5260,
+    "idArticulo": 50,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 452.08
+  },
+  {
+    "cantidadArticulo": 8392,
+    "idArticulo": 659,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 345.2
+  },
+  {
+    "cantidadArticulo": 7881,
+    "idArticulo": 141,
+    "nombreArticulo": "Arctic MX-4",
+    "precioArticulo": 184.11
+  },
+  {
+    "cantidadArticulo": 78,
+    "idArticulo": 191,
+    "nombreArticulo": "NZXT H510 Case",
+    "precioArticulo": 165.94
+  },
+  {
+    "cantidadArticulo": 59,
+    "idArticulo": 280,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 87.09
+  },
+  {
+    "cantidadArticulo": 51,
+    "idArticulo": 477,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 270.13
+  },
+  {
+    "cantidadArticulo": 75,
+    "idArticulo": 118,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 421.77
+  },
+  {
+    "cantidadArticulo": 19,
+    "idArticulo": 2396,
+    "nombreArticulo": "GoPro HERO9 Camera",
+    "precioArticulo": 180.43
+  },
+  {
+    "cantidadArticulo": 284,
+    "idArticulo": 12,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 162.86
+  },
+  {
+    "cantidadArticulo": 8635,
+    "idArticulo": 103,
+    "nombreArticulo": "Elgato Game Capture",
+    "precioArticulo": 215.58
+  },
+  {
+    "cantidadArticulo": 56,
+    "idArticulo": 745,
+    "nombreArticulo": "Razer BlackWidow Keyboard",
+    "precioArticulo": 220.71
+  },
+  {
+    "cantidadArticulo": 19,
+    "idArticulo": 7826,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 416.23
+  },
+  {
+    "cantidadArticulo": 1616,
+    "idArticulo": 838,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 115.73
+  },
+  {
+    "cantidadArticulo": 6506,
+    "idArticulo": 644,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 329.69
+  },
+  {
+    "cantidadArticulo": 302,
+    "idArticulo": 47,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 456.42
+  },
+  {
+    "cantidadArticulo": 8,
+    "idArticulo": 6,
+    "nombreArticulo": "Netgear Nighthawk",
+    "precioArticulo": 208.97
+  },
+  {
+    "cantidadArticulo": 72,
+    "idArticulo": 390,
+    "nombreArticulo": "JBL Flip 5 Speaker",
+    "precioArticulo": 260.22
+  },
+  {
+    "cantidadArticulo": 94,
+    "idArticulo": 7530,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 90.01
+  },
+  {
+    "cantidadArticulo": 1,
+    "idArticulo": 47,
+    "nombreArticulo": "Apple MacBook Pro",
+    "precioArticulo": 64.27
+  },
+  {
+    "cantidadArticulo": 120,
+    "idArticulo": 279,
+    "nombreArticulo": "Lenovo ThinkPad",
+    "precioArticulo": 258.37
+  },
+  {
+    "cantidadArticulo": 44,
+    "idArticulo": 105,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 363.28
+  },
+  {
+    "cantidadArticulo": 50,
+    "idArticulo": 340,
+    "nombreArticulo": "Gigabyte B550 AORUS",
+    "precioArticulo": 219.23
+  },
+  {
+    "cantidadArticulo": 82,
+    "idArticulo": 154,
+    "nombreArticulo": "Canon EOS Camera",
+    "precioArticulo": 52.36
+  },
+  {
+    "cantidadArticulo": 8,
+    "idArticulo": 840,
+    "nombreArticulo": "Noctua NT-H1",
+    "precioArticulo": 248.38
+  },
+  {
+    "cantidadArticulo": 2,
+    "idArticulo": 5636,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 86.69
+  },
+  {
+    "cantidadArticulo": 93,
+    "idArticulo": 329,
+    "nombreArticulo": "Seagate External HDD",
+    "precioArticulo": 19.7
+  },
+  {
+    "cantidadArticulo": 31,
+    "idArticulo": 4169,
+    "nombreArticulo": "ASRock Phantom Gaming",
+    "precioArticulo": 297.01
+  },
+  {
+    "cantidadArticulo": 35,
+    "idArticulo": 800,
+    "nombreArticulo": "Razer Blade Stealth",
+    "precioArticulo": 412.28
+  },
+  {
+    "cantidadArticulo": 93,
+    "idArticulo": 510,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 204.87
+  },
+  {
+    "cantidadArticulo": 62,
+    "idArticulo": 82,
+    "nombreArticulo": "Logitech G502 Mouse",
+    "precioArticulo": 222.07
+  },
+  {
+    "cantidadArticulo": 753,
+    "idArticulo": 544,
+    "nombreArticulo": "ASUS ROG Strix Motherboard",
+    "precioArticulo": 297.02
+  },
+  {
+    "cantidadArticulo": 2361,
+    "idArticulo": 6299,
+    "nombreArticulo": "Microsoft Surface Pro",
+    "precioArticulo": 430.32
+  },
+  {
+    "cantidadArticulo": 69,
+    "idArticulo": 811,
+    "nombreArticulo": "Xiaomi Mi 11",
+    "precioArticulo": 276.64
+  },
+  {
+    "cantidadArticulo": 94,
+    "idArticulo": 8219,
+    "nombreArticulo": "Noctua NH-D15",
+    "precioArticulo": 140.58
+  },
+  {
+    "cantidadArticulo": 130,
+    "idArticulo": 5406,
+    "nombreArticulo": "EVGA SuperNOVA",
+    "precioArticulo": 40.81
+  },
+  {
+    "cantidadArticulo": 1412,
+    "idArticulo": 845,
+    "nombreArticulo": "AMD Ryzen 7",
+    "precioArticulo": 365.38
+  },
+  {
+    "cantidadArticulo": 53,
+    "idArticulo": 261,
+    "nombreArticulo": "Asus ZenBook",
+    "precioArticulo": 357.85
+  },
+  {
+    "cantidadArticulo": 2,
+    "idArticulo": 101,
+    "nombreArticulo": "Corsair RM850x",
+    "precioArticulo": 437.56
+  },
+  {
+    "cantidadArticulo": 521,
+    "idArticulo": 950,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 421.84
+  },
+  {
+    "cantidadArticulo": 678,
+    "idArticulo": 436,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 60.75
+  },
+  {
+    "cantidadArticulo": 445,
+    "idArticulo": 1369,
+    "nombreArticulo": "Acer Predator",
+    "precioArticulo": 41.74
+  },
+  {
+    "cantidadArticulo": 299,
+    "idArticulo": 574,
+    "nombreArticulo": "TP-Link Archer Router",
+    "precioArticulo": 173.11
+  },
+  {
+    "cantidadArticulo": 513,
+    "idArticulo": 5257,
+    "nombreArticulo": "Samsung 970 EVO SSD",
+    "precioArticulo": 71.73
+  },
+  {
+    "cantidadArticulo": 61,
+    "idArticulo": 831,
+    "nombreArticulo": "Intel i9",
+    "precioArticulo": 351.45
+  },
+  {
+    "cantidadArticulo": 46,
+    "idArticulo": 620,
+    "nombreArticulo": "HP Spectre x360",
+    "precioArticulo": 61.71
+  },
+  {
+    "cantidadArticulo": 380,
+    "idArticulo": 42,
+    "nombreArticulo": "Samsung Galaxy S21",
+    "precioArticulo": 332.33
+  },
+  {
+    "cantidadArticulo": 503,
+    "idArticulo": 870,
+    "nombreArticulo": "OnePlus Nord",
+    "precioArticulo": 428.09
+  },
+  {
+    "cantidadArticulo": 54,
+    "idArticulo": 414,
+    "nombreArticulo": "Be Quiet! Dark Rock Pro",
+    "precioArticulo": 165.3
+  }
+]

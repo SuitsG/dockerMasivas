@@ -1,0 +1,10 @@
+## Cargar datos
+POST http://localhost:8080/sqlite/articulos
+Content-Type: application/json
+
+{
+    "cantidadArticulo": 43000,
+    "idArticulo": 195779,
+    "nombreArticulo": "Dell Ultrasharp Monitor",
+    "precioArticulo": 95.1
+}
