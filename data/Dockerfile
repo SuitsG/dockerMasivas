@@ -16,8 +16,7 @@ RUN apt-get update && \
         libsqlite3-dev \
         sqlite3 \  
         libmariadb-dev \
-        default-mysql-client \
-        python3 
+        default-mysql-client 
 
 # Agregar el repositorio para mongosh
 RUN wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | apt-key add - && \
@@ -46,7 +45,6 @@ COPY almacen.sqlite /app/data/almacen.sqlite
 
 # Copiar el archivo mojo_app.pl
 COPY mojo_app.pl /app/mojo_app.pl
-COPY etl_paralelo.py /app/etl_paralelo.py
 
 # Establecer el directorio de trabajo
 WORKDIR /app
