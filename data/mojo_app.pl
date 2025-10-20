@@ -6,6 +6,7 @@ use File::Slurp;
 use Data::Dumper;
 use Mojo::JSON qw(decode_json);
 use Mojo::UserAgent;
+
  
  
 # Conectar a la base de datos SQLite
@@ -91,7 +92,16 @@ sub etl_process_ventas {
 post '/etl' => sub {
    
 };
- 
+
+get '/etl' => sub {
+    my $c = shift;
+    
+    # Ejecutar en segundo plano
+    system('python etl_paralelo.py &');
+    
+    $c->render(text => 'ETL iniciado en segundo plano');
+};
+
 # Rutas para cargar datos
 get '/load_data' => sub {
     my $c = shift;
