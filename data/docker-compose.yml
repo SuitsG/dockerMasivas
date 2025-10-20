@@ -6,6 +6,8 @@ services:
     container_name: core_container
     ports:
       - "8080:8080"
+    volumes:
+      - core_data:/app/data
 
   # Contenedores de MongoDB
   mongodb_articulos:
@@ -27,11 +29,10 @@ services:
     ports: 
       - "27019:27017"
 
-  # Contenedor de SQLite
-  sqlite-db:
-    image: nouchka/sqlite3
-    container_name: sqlite-db
-    volumes:
-      - ./data:/data
-    ports:
-      - "3308:3306" 
+volumes:
+  core_data:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ../data/data
