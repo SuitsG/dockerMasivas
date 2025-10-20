@@ -2,23 +2,26 @@
 Nombres:
    Laura Tatiana Bernal Yanquen
    Daniel Yesid Casallas Páez
+## Problemas Identificados
 
-Problemas:
- Personas:
-    En el momento se encuentra un problema, que algunas personas tienen numero Documento repetido
-    se opto por colocar un identificadores temporales y luego reemplazar este numero documento
- Articulos:
-    Mayoria de articulos tienen el mismo nombre, se opto por sumar todas las cantidades y para el
-    precio promediarlo.
-    Reemplazar id y hacer una lista de clave -> Valor la clave: el nuevo id y los valores: los antiguos
-    ids para reemplazar en ventas.
- Ventas:
-    Para ventas reemplazar los ids de los articulos segun el array clave valor,
-    y reemplazar documentos por nuevos documentos en caso de que se repitan
+### Personas
+- Algunas personas tienen número de documento repetido
+- Solución temporal: Se asignaron identificadores temporales que posteriormente serán reemplazados por el número de documento correcto
 
-Nota:
- El proyecto aun no se ha terminado.
- Solo falta normalizar etl
+### Artículos
+- La mayoría de artículos tienen el mismo nombre
+- Solución implementada:
+    - Sumar todas las cantidades
+    - Promediar los precios
+    - Crear un mapeo de IDs (clave-valor): nueva ID → IDs antiguos
+    - Utilizar este mapeo para actualizar las referencias en ventas
+
+### Ventas
+- Reemplazar los IDs de artículos según el mapeo clave-valor
+- Actualizar números de documento en caso de duplicados
+
+## Estado del Proyecto
+⚠️ **Nota:** El proyecto está en desarrollo. Pendiente: normalización del ETL.
 
 
 ## Comandos Docker
